@@ -3,11 +3,7 @@ package com.hantsylabs.restexample.springmvc.model;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Used to transport messages back to the client.
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- */
+
 public class ResponseMessage {
 
     public enum Type {
