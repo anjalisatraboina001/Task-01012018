@@ -8,11 +8,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.validator.constraints.NotEmpty;
 
-/**
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- *
- */
+
 @Data
 @Builder
 @NoArgsConstructor
