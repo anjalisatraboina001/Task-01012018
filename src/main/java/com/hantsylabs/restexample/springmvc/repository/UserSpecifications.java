@@ -11,11 +11,6 @@ import javax.persistence.criteria.Root;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.util.StringUtils;
 
-/**
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- *
- */
 public class UserSpecifications {
 
     private UserSpecifications() {}
