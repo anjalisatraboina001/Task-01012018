@@ -8,10 +8,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;
 
-/**
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- */
+
 public class DTOUtils {
 
     //private static final Logger log = LoggerFactory.getLogger(DTOUtils.class);
