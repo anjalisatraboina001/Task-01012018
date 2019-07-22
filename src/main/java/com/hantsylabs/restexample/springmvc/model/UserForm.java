@@ -9,10 +9,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.validator.constraints.Email;
 
-/**
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- */
+
 @Data
 @Builder
 @NoArgsConstructor
