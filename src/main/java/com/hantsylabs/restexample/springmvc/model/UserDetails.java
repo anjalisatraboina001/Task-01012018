@@ -9,10 +9,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- *
- * @author Hantsy Bai<hantsy@gmail.com>
- */
+
 @Data
 @Builder
 @NoArgsConstructor
