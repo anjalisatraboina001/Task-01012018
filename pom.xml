@@ -28,7 +28,7 @@
         <spring.version>4.3.7.RELEASE</spring.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
         <hibernate.version>5.2.7.Final</hibernate.version>
-        <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.6.Final</hibernate-validator.version>
         <jackson.version>2.8.7</jackson.version>
         <modelmapper.version>0.7.5</modelmapper.version>
         <lombok.version>1.16.12</lombok.version>
